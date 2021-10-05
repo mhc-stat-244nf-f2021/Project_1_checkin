@@ -1,0 +1,19 @@
+---
+title: "Project 1 Check-in"
+subtitle: "STAT 244NF: Infectious Disease Modeling"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Due Date
+
+Due: Friday, October 8 to Gradescope. 
+
+## Description
+
+Please work on your projects, and get as much of a draft as possible completed by Friday, October 8. **The most important thing here will be to find and document the resources for the background on your infectious disease of choice, as well as highlight any questions you have/any information you are having trouble finding.** The closer you can get to a decent draft (full sentences, paragraphs, covering the necessary information) of this report for this check-in, the more feedback I can give you. *This assignment will be graded for completion and will count as a homework assignment.* 
+
+If you are working with a partner on this assignment, you should include both your name and your partner's name on the draft of your report. You should only turn in one copy per group - group submissions have been enabled on Gradescope. Let me know if you have any problems with the submission.
